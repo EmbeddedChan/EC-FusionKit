@@ -5,5 +5,5 @@ EC-FusionKit is a collection of Android apps by EmbeddedChan for embedded system
 
 Last updated: 2026-07-02
 
-[Download EC-FusionKit-v1.13.4.apk](https://github.com/EmbeddedChan/EC-FusionKit/raw/main/apk/EC-FusionKit.apk)
+[Download EC-FusionKit.apk](https://github.com/EmbeddedChan/EC-FusionKit/raw/main/apk/EC-FusionKit.apk)
 
